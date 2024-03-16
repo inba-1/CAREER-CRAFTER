@@ -13,7 +13,7 @@ Chatbot Model:
 
 The chatbot uses natural language processing and a neural network to understand user queries and provide appropriate responses. The query is broken down into individual words and matched against stored patterns and knowledge. The model also uses a convolutional neural network to capture complex patterns and relationships within the data. The output scores are transformed into probabilities using activation functions like softmax. The model uses stochastic gradient descent during the training process to minimize loss and improve accuracy. By integrating the CNN model, the chatbot provides users with more precise and contextually relevant guidance for their career queries.
 
-Technologies & Tools Used:
+Tech stacks:
 
 •Webscrapping using selenium
 •Python
