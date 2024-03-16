@@ -64,12 +64,12 @@ with st.sidebar:
     
     st.markdown('''
     ## About~
-    This app has been developed by 5 students of VIT-AP :\n
-    Harshita Bajaj [22MSD7013]\n
-    Arya Chakraborty [22MSD7020] \n
-    Rituparno Das [22MSD2027]\n
-    Shritama Sengupta [22MSD7032]\n
-    Arundhuti Chakraborty [22MSD7046]
+    This app has been developed by 5 students of PEC
+    jaideep\n
+    bavanagaran \n
+    gowshik gs\n
+    aakash\n
+    inbakumar
 
     ''')
     add_vertical_space(5)
