@@ -1,7 +1,5 @@
 # CAREER-CRAFTER
 HACKATHON PROJECT BY  TEAM CYBER SAPIENS.
-<<<<<<< HEAD
-=======
 
 Overview:
 
@@ -22,4 +20,3 @@ Tech stacks:
 •Machine Learning
 •NLP
 •Streamlit
->>>>>>> 24fe23b232dee5adff76c4ddffd4052346edfbfe
